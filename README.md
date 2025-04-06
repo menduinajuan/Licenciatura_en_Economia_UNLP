@@ -4,7 +4,7 @@ Bienvenido/a al repositorio de las materias de la Licenciatura en Economía de l
 
 ## Descripción
 
-Este repositorio (en los próximos meses) contendrá las resoluciones de los trabajos prácticos y el material teórico de cada materia de la carrera. Para cada resolución, se incluyen la data, los códigos y el informe (en formato .docx y .pdf).
+Este repositorio (en los próximos meses) contendrá las resoluciones de los trabajos prácticos y el material teórico de cada materia de la carrera (Plan VI). Para cada resolución, se incluyen la data, los códigos y el informe (en formato .docx y .pdf).
 
 ## Estructura del Repositorio
 
